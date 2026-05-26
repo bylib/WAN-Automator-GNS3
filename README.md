@@ -65,7 +65,7 @@ py -m pip install -r requirements.txt
 ---
 # Interfaz
 
-![Main Interface](images/main.png)
+![Main Interface](imagesmain-interface.png)
 
 
 # Ejecución
