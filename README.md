@@ -65,7 +65,7 @@ py -m pip install -r requirements.txt
 ---
 # Interfaz
 
-![Main Interface](imagesmain-interface.png)
+![Main Interface](WAN_Automator_Proyecto/Imagenes/imagesmain-interface.png)
 
 
 # Ejecución
