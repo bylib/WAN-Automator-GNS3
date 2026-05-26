@@ -162,6 +162,10 @@ La app permite usar Gemini de forma opcional para interpretar peticiones más co
 
 ---
 
-# Autoría
+# Autores
 
-Proyecto práctico para la materia de redes WAN, enfocado en automatización, enrutamiento avanzado y troubleshooting.
+- Maria Daniela Nasayo Palencia
+- Oscar Jesith Lancheros Arenas
+- Jeimi Franchelli Martinez Silva
+
+Proyecto académico orientado a automatización y troubleshooting en redes WAN utilizando Python, Streamlit y GNS3.
